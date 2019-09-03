@@ -1,0 +1,36 @@
+body{
+	background-color: black;
+}
+*{
+	color: #000000;
+}
+div{
+	background-color: darkgray;
+	margin: 3px;
+	padding:3px;
+	border:solid 3px darkgreen;
+	float:left;
+
+}
+.header{
+	width: 98%;
+	height: 50px;
+	float:left;
+
+}
+.nav{
+	width: 98%;
+	height:50px;
+	float:left;
+
+}
+.aside{
+	width: 98%;
+	height: 500px;
+	float:left;
+}
+.footer{
+	width: 98%;
+	height: 50px;
+	float:left;
+}
